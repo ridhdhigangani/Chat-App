@@ -1,7 +1,7 @@
 # Chat-App
 
 # Download the Code:
-git clone https://github.com/Pratik8418/chat_app.git
+git clone [https://github.com/ridhdhigangani/Chat-App](https://github.com/ridhdhigangani/Chat-App)
 
 # Install dependencies using npm:
 
